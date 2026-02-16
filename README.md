@@ -5,9 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/github/license/yourusername/FinBERT-Stock-Predictor)](LICENSE)
 
-Advanced **stock price prediction** leveraging **FinBERT** (financial sentiment analysis) on news headlines and historical data. Integrates sentiment scores with LSTM/ regression models for S&P 500 and custom tickers. Built for Kaggle competitions and production ML pipelines. [web:7][web:21]
-
-![FinBERT Logo](https://huggingface.co/ProsusAI/finbert/resolve/main/finbert.png) [web:1]
 
 ## 🚀 Features
 - **FinBERT Sentiment Analysis**: Pre-trained BERT for financial text from news APIs (e.g., yfinance, yahooquery). [web:1][web:15]
