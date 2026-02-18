@@ -1,9 +1,4 @@
-# FinBERT-Stock-Predictor
 
-[![Stars](https://img.shields.io/github/stars/yourusername/FinBERT-Stock-Predictor)](https://github.com/yourusername/FinBERT-Stock-Predictor)
-[![Forks](https://img.shields.io/github/forks/yourusername/FinBERT-Stock-Predictor)](https://github.com/yourusername/FinBERT-Stock-Predictor)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/yourusername/FinBERT-Stock-Predictor)](LICENSE)
 
 
 ## 🚀 Features
